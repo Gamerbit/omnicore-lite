@@ -174,7 +174,7 @@ int LogFilePrint(const std::string& str)
  *
  * The configuration option "-logtimestamps" can be used to indicate, whether
  * the message should be prepended with a timestamp.
- *
+ * 
  * @param str[in]  The message to print
  * @return The total number of characters written
  */
